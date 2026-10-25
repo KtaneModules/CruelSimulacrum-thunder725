@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: CruelSimulacrum
+  title: Cruel Simulacrum
+  author: thunder725
+  description: "This is a message--a plea for reason hidden in a module. Read between
+    the lines.\r\n\r\nRead information that the Machine gives you to iterate on what
+    it produces.\n\nCreated by thnder725.\n\nManual can be found at https://ktane.timwi.de/\n\nIncludes
+    Twitch Plays, Rule Seed, Colourblind and Souvenir compatibility.\n\n=-= Version
+    History =-=\n=-= 1.0.0\n- Initial Release"
+  version: 1.0.0
+  outputFolder: build
+  debugBuild: 0
+  previewImage: {fileID: 2800000, guid: 600d53f867c048141a62fc4eabf09774, type: 3}

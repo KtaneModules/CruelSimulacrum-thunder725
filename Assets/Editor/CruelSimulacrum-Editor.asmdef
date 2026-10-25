@@ -1,0 +1,10 @@
+{
+  "name": "CruelSimulacrum-Editor",
+  "references": [
+    "CruelSimulacrum"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
